@@ -1,0 +1,45 @@
+local NotifyLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/vKhonshu/intro/main/ui"))()
+NotifyLib.prompt('Dm .lua#0001 For resolver for it', 'Loading..', 2)
+---                              __________                       
+----________        ____         |_________|||||||||||||
+----| |_____|      //  \\        ||      ||    ||||  //            \\
+----| |           //    \\       ||______||    |||| //              \\
+----| |_____     //______\\      ||______||    ||||//                \\
+----| |_____|   //________\\     ||     \\     ||||\\       //\\      \\  
+----| |        //          \\    ||      \\    |||| \\     //  \\     //
+----| |_____  //            \\   ||       \\   ||||  \\   //    \\   // 
+----| |_____|//              \\  ||        \\  ||||   \\_//      \\_//
+---____________________________________________________________________
+----  ____
+---  |____|  
+    ---  ||
+     --- ||  
+      ---||
+     ---//
+----___//
+----__//
+---||
+---||
+---  
+---O  
+---      _       _
+---    // \\   //\\      
+---   //   \\_//  \\    
+---   \\          //
+---    \\        //
+---     \\      //
+---      \\    //
+---       \\  //
+---        \\//
+
+
+---source code created by .lua 
+print("Earth")
+print("Timer : 0")
+print("loaded")
+wait(4)
+local NotifyLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/vKhonshu/intro/main/ui"))()
+NotifyLib.prompt('Earth Silent - Fov is 51 or higher', 'Loading..', 5)
+NotifyLib.prompt('Earth Silent - shoot above head if needed', 'Loading..', 5)
+NotifyLib.prompt('Earth Silent - Leaked By Earth', 'Loading..', 5)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/moreflowx/28/main/source", true))()
